@@ -1,0 +1,9 @@
+{
+  "login": "Login",
+  "register": "Register",
+  "allRightsReserved": "All rights reserved",
+  "welcome": {
+    "title": "Welcome to BuyWell",
+    "subtitle": "Manage your shopping lists smartly"
+  }
+}
